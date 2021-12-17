@@ -78,9 +78,9 @@ public class Assesment3 {
 		driver.findElement(By.xpath("//input[@name='phone']")).clear();
 		driver.findElement(By.xpath("//input[@name='phone']")).sendKeys("123648967");
 		driver.findElement(By.xpath("//input[@name='address']")).clear();
-		driver.findElement(By.xpath("//input[@name='address']")).sendKeys("Menon");
-		driver.findElement(By.xpath("//input[@name='last_name']")).clear();
-		driver.findElement(By.xpath("//input[@name='last_name']")).sendKeys("Menon");
+		driver.findElement(By.xpath("//input[@name='address']")).sendKeys("dirhvio jebndjsb");
+		driver.findElement(By.xpath("//input[@name='city']")).clear();
+		driver.findElement(By.xpath("//input[@name='city']")).sendKeys("Banglore");
 		
 		
 		
