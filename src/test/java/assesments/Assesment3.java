@@ -81,6 +81,7 @@ public class Assesment3 {
 		driver.findElement(By.xpath("//input[@name='address']")).sendKeys("dirhvio jebndjsb");
 		driver.findElement(By.xpath("//input[@name='city']")).clear();
 		driver.findElement(By.xpath("//input[@name='city']")).sendKeys("Banglore");
+		driver.findElement(By.xpath("//a[text()='Send ']")).click();
 		
 		
 		
